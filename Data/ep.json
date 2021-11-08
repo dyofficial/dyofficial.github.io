@@ -33,5 +33,12 @@
     "department": "Exec",
     "email": "danielyeboah@expresspaygh.com",
     "password": "daniel1"
+  },
+  {
+    "id": 6,
+    "name": "Paula",
+    "department": "Marketing",
+    "email": "paulaboahene@expresspaygh.com",
+    "password": "daniel1"
   }
 ]
