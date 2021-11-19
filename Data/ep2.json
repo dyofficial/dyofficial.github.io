@@ -5,7 +5,7 @@
     "department": "Marketing",
     "email": "danielyeboah@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
+    "image": "https://media.publit.io/file/expimages/blboy.jpg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "department": "Support",
     "email": "lisa@expresspaygh.com",
     "password": "lisa3",
-    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
+    "image": "https://media.publit.io/file/expimages/mim.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "department": "Finance",
     "email": "danielyeboah@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
+    "image": "https://media.publit.io/file/expimages/bbygirl-5.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "department": "Exec",
     "email": "danielyeboah@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
+    "image": "https://media.publit.io/file/expimages/boy.png"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "department": "Marketing",
     "email": "paulaboahene@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
+    "image": "https://media.publit.io/file/expimages/bbygirl.jpg"
   }
 ]
