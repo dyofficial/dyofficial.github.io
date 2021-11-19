@@ -4,41 +4,47 @@
     "name": "Daniel",
     "department": "Marketing",
     "email": "danielyeboah@expresspaygh.com",
-    "password": "daniel1"
+    "password": "daniel1",
+    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
   },
   {
     "id": 2,
     "name": "Edmund",
     "department": "Dev",
     "email": "edmund@expresspaygh.com",
-    "password": "edmund2"
+    "password": "edmund2",
+    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
   },
   {
     "id": 3,
     "name": "Lisa-May",
     "department": "Support",
     "email": "lisa@expresspaygh.com",
-    "password": "lisa3"
+    "password": "lisa3",
+    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
   },
   {
     "id": 4,
     "name": "Barbara",
     "department": "Finance",
     "email": "danielyeboah@expresspaygh.com",
-    "password": "daniel1"
+    "password": "daniel1",
+    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
   },
   {
     "id": 5,
     "name": "Curtis",
     "department": "Exec",
     "email": "danielyeboah@expresspaygh.com",
-    "password": "daniel1"
+    "password": "daniel1",
+    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
   },
   {
     "id": 6,
     "name": "Paula",
     "department": "Marketing",
     "email": "paulaboahene@expresspaygh.com",
-    "password": "daniel1"
+    "password": "daniel1",
+    "image": "https://media.publit.io/file/expimages/photo1636789537.jpeg"
   }
 ]
