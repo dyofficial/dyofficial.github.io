@@ -5,7 +5,7 @@
     "department": "Marketing",
     "email": "danielyeboah@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/blboy.jpg"
+    "image": "https://media.publit.io/file/expimages/M3.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "department": "Dev",
     "email": "edmund@expresspaygh.com",
     "password": "edmund2",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F002%2F518%2F022%2Foriginal%2Fman-character-avatar-in-cartoon-flat-style-round-icon-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F2518022-man-character-avatar-in-cartoon-flat-style-round-icon&tbnid=oS9YDQeRMzzMjM&vet=12ahUKEwjEsvy91q70AhUq3OAKHaTcAgIQMygAegUIARCVAQ..i&docid=HpVVewejYJgt1M&w=7973&h=7973&itg=1&q=avatar&hl=en&ved=2ahUKEwjEsvy91q70AhUq3OAKHaTcAgIQMygAegUIARCVAQ"
+    "image": "https://media.publit.io/file/expimages/M1.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "department": "Support",
     "email": "lisa@expresspaygh.com",
     "password": "lisa3",
-    "image": "https://media.publit.io/file/expimages/mim.png"
+    "image": "https://media.publit.io/file/expimages/F1.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "department": "Finance",
     "email": "danielyeboah@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/bbygirl-5.jpg"
+    "image": "https://media.publit.io/file/expimages/F3.png"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "department": "Exec",
     "email": "danielyeboah@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/boy.png"
+    "image": "https://media.publit.io/file/expimages/M2.png"
   },
   {
     "id": 6,
@@ -45,6 +45,14 @@
     "department": "Marketing",
     "email": "paulaboahene@expresspaygh.com",
     "password": "daniel1",
-    "image": "https://media.publit.io/file/expimages/bbygirl.jpg"
+    "image": "https://media.publit.io/file/expimages/F3.png"
+  },
+  {
+    "id": 7,
+    "name": "Rhoda",
+    "department": "Merchant Acquisition",
+    "email": "rhoda@expresspaygh.com",
+    "password": "daniel1",
+    "image": "hhttps://media.publit.io/file/expimages/rhoda.jpeg"
   }
 ]
